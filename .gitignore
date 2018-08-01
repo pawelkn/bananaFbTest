@@ -1,0 +1,11 @@
+#swap files
+*.swp
+*~
+
+#build directories
+build-*
+
+#others
+*.pro.user*
+rules.mk
+.vscode
